@@ -19,7 +19,8 @@ untuk tujuan memeras orang tersebut.
 dalam keadaan rugi
 5. Impersonation, yaitu pencurian data pribadi untuk membuat akun palsu 
 atas nama korban.
-6. Penyebaran foto/ video/ materi seksual tanpa persetujuan korban.
+6. Doxing, yaitu kekerasan berupa penyebaran informasi personal, seperti nama, alamat rumah, sekolah, tempat kerja, nomor telepon, no. identitas (misalnya KTP), informasi tentang keluarga, status kesehatan, dan informasi personal lainnya.
+7. Trolling, yaitu pelecehan berupa penghinaan, makian, candaan, dan/atau komentar yang bermuatan seksis atau menyerang ketubuhan dan seksualitas, dalam rupa kata maupun gambar baik secara terbuka (ruang publik di internet) maupun secara tertutup atau pribadi (Direct Message/Private Message). Trolling berarti serangan yang dilakukan secara terus menerus terhadap korban.
 Kekerasan berbasis gender online berdampak negatif pada aspek sosial, 
 fisik, psikologis, ekonomi, dan fungsional. Selain itu, kekerasan berbasis gender 
 online juga menyebabkan rasa tidak aman dalam pergaulan ekosistem digital dan 
